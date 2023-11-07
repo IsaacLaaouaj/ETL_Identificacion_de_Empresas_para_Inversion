@@ -1,4 +1,5 @@
-# ETL Identificación de Empresas para Inversión
+# ETL Identificación de Empresas para Inversión 
+## Proyecto en desarrollo, fecha estimada 25/11/2023
 
 ## Descripción
 Búsqueda de empresas estadounidenses recién constituidas y no muy conocidas con el potencial de ofrecer inversiones exitosas a largo plazo. 
