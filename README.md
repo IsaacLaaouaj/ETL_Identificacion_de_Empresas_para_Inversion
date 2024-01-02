@@ -28,7 +28,7 @@ Además de los criterios mencionados, seleccionaremos indicadores fundamentales 
 El proceso de ETL se llevará a cabo en dos etapas principales:
 
 ### 1. Extracción y Limpieza
-Recogeremos datos de diversas fuentes financieras, combinaremos la información relevante y realizaremos las tareas de limpieza necesarias. Los datos limpios se almacenarán en una base de datos SQL intermedia, tal como PostgreSQL.
+Recogeremos datos de diversas fuentes financieras (realizamos "web scaping" de algunas fuentes financieras fiables), combinaremos la información relevante y realizaremos las tareas de limpieza necesarias.
 
 ### 2. Análisis y Selección
 Realizaremos análisis en la base de datos para extraer el top 10 de empresas basándonos en los criterios establecidos. Luego, filtraremos y extraeremos la información e indicadores fundamentales/técnicos que sean necesarios y suficientes para el equipo de inversión.
