@@ -30,13 +30,13 @@ Como alumno analizando un conjunto de datos de empresas, mi objetivo es identifi
 
 Al  analizar  estos  datos,  busco  empresas  que  sean  estables,  rentables  y  con  buena perspectiva  de  crecimiento.  Por  ejemplo,  prefiero  empresas  con  un  P/E  bajo,  pero  no demasiado  bajo,  un  EPS  positivo,  y  una  capitalización  de  mercado  considerable.  La diversificación en diferentes industrias también es clave para mitigar riesgos específicos del sector. 
 
-2. Extracción de datos 
+# 2. Extracción de datos 
 
 Para la extracción de los datos financieros se han utilizado: 
 
 - [www.wallstreetzen.com:](http://www.wallstreetzen.com/) Para valores del Ticker,Company, Exchange, Industry, Zen Score, Market Cap, Price, 1d %, EBITDA, P/E, D/E, mediante “web scraping” con la herramienta de Selenium y BS: 
 
-![](Aspose.Words.b64a2492-d145-4216-9d5f-0c3f97139980.002.png)
+![](Imagenes_informe/Aspose.Words.b64a2492-d145-4216-9d5f-0c3f97139980.002.png)
 
 Para ello se ha tenido que iterar página por página mediante Selenium y BeautifulSoap. Además he tenido que añadir un tiempo random de entre 2 a 5 segundos para prevenir que la página me bloquee. 
 
