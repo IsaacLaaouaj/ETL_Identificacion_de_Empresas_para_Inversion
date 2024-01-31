@@ -1,6 +1,6 @@
 Isaac Mohamed Laaouaj Madrouni 
 
-#1. Explicación y justificación de valores a escoger 
+# 1. Explicación y justificación de valores a escoger 
 
 Como alumno analizando un conjunto de datos de empresas, mi objetivo es identificar compañías  destacadas  según  ciertos  criterios  financieros  y  operativos.  Aquí  está  mi razonamiento para seleccionar valores específicos de las columnas del dataset: 
 
