@@ -40,14 +40,14 @@ Para la extracción de los datos financieros se han utilizado:
 
 Para ello se ha tenido que iterar página por página mediante Selenium y BeautifulSoap. Además he tenido que añadir un tiempo random de entre 2 a 5 segundos para prevenir que la página me bloquee. 
 
-![](Aspose.Words.b64a2492-d145-4216-9d5f-0c3f97139980.003.png)
+![](Imagenes_informe/Aspose.Words.b64a2492-d145-4216-9d5f-0c3f97139980.003.png)
 
 Y la data frame saliente ha sido el siguiente: 
 
-![](Aspose.Words.b64a2492-d145-4216-9d5f-0c3f97139980.004.png)
+![](Imagenes_informe/Aspose.Words.b64a2492-d145-4216-9d5f-0c3f97139980.004.png)
 
 - Google finance: Para el año de fundación y el número de empleados a través de Selenium. 
-3. Cálculo del EPS 
+# 3. Cálculo del EPS 
 
 El "EPS" o Earnings Per Share (Ganancias por Acción) es una medida de la rentabilidad de una empresa y se calcula dividiendo las ganancias netas de la empresa por el número total de acciones en circulación. 
 
@@ -55,11 +55,11 @@ Para calcular el EPS directamente, necesitamos conocer las ganancias netas de la
 
 EPS = Precio por acción / PE ratio 
 
-![](Aspose.Words.b64a2492-d145-4216-9d5f-0c3f97139980.005.png)
+![](Imagenes_informe/Aspose.Words.b64a2492-d145-4216-9d5f-0c3f97139980.005.png)
 
 De  esta  forma  ya  tenemos  la  parte  del  beneficio  neto  total  de  una  compañía  que  le corresponde a cada una de las acciones que constituyen su capital social. 
 
-4. Justificación de las 10 mejores empresas para invertir 
+# 4. Justificación de las 10 mejores empresas para invertir 
 
 Después de filtrar las empresas según: 
 
@@ -82,7 +82,7 @@ Este enfoque nos asegura escoger lo mejor de la empresa en (Market Cap), su valo
 
 Las escogidas son: 
 
-![](Aspose.Words.b64a2492-d145-4216-9d5f-0c3f97139980.006.png)
+![](Imagenes_informe/Aspose.Words.b64a2492-d145-4216-9d5f-0c3f97139980.006.png)
 
 
 Este archivo README proporciona una visión general del proyecto de inversión para el equipo de la UAX. Es importante asegurarse de que todas las herramientas y procesos estén adecuadamente documentados para que los colaboradores puedan seguir fácilmente los pasos necesarios. Además, cualquier cambio en los criterios de selección o en las fuentes de datos debe reflejarse actualizando este documento.
