@@ -84,5 +84,3 @@ Las escogidas son:
 
 ![](Imagenes_informe/Aspose.Words.b64a2492-d145-4216-9d5f-0c3f97139980.006.png)
 
-
-Este archivo README proporciona una visión general del proyecto de inversión para el equipo de la UAX. Es importante asegurarse de que todas las herramientas y procesos estén adecuadamente documentados para que los colaboradores puedan seguir fácilmente los pasos necesarios. Además, cualquier cambio en los criterios de selección o en las fuentes de datos debe reflejarse actualizando este documento.
